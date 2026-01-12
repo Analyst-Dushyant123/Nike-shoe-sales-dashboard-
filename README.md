@@ -1,6 +1,9 @@
 # Nike-shoe-sales-dashboard
 # Dashboard preview
 ![Picture](https://github.com/Analyst-Dushyant123/Nike-shoe-sales-dashboard-/blob/main/Screenshot%202026-01-12%20205714.png)
+![Picture](https://github.com/Analyst-Dushyant123/Nike-shoe-sales-dashboard-/blob/main/Screenshot%202026-01-12%20205756.png)
+![Picture](https://github.com/Analyst-Dushyant123/Nike-shoe-sales-dashboard-/blob/main/Screenshot%202026-01-12%20205816.png)
+
 Power BI Dashboard Project
 📊 Project Overview
 
